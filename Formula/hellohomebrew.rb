@@ -1,4 +1,4 @@
-class HelloHomebrew < Formula
+class Hellohomebrew < Formula
 	desc "Says hello-homebrew"
 	homepage "https://jonaseveraert.be"
 	url "https://github.com/Jomy10/hello-homebrew/releases/download/v1.0.0/hello-homebrew.tar.gz"
